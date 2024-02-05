@@ -1,6 +1,6 @@
 # Is PUSH0 already supported?
 
-<img src="table.svg">
+<img src="table.svg" height=230>
 
 ### How to add new network?
 
